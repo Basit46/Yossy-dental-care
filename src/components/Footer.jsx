@@ -40,7 +40,7 @@ const Footer = () => {
         <p className="mt-[100px] xl:mt-0 block font-bold text-[20px]">
           built by{" "}
           <a
-            href="https://x.com/Basit_js"
+            href="https://wa.me/2347067668093?text=Hello"
             className="text-[tomato] underline"
             target="blank"
           >
