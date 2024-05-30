@@ -15,7 +15,7 @@ function App() {
       <About />
       <Footer />
 
-      <Loader />
+      {/* <Loader /> */}
     </div>
   );
 }
