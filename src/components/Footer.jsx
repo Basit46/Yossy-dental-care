@@ -3,6 +3,7 @@ import footer from "../assets/footer.jpg";
 import { PiToothFill } from "react-icons/pi";
 
 const Footer = () => {
+  //
   return (
     <footer className="mt-[150px] mb-[40px] h-fit xl:h-[600px] flex flex-col xl:flex-row gap-[40px] justify-between">
       <div className="w-full h-[200px] sm:h-auto sm:w-[40%] ">
